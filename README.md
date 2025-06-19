@@ -214,6 +214,40 @@ If you use this work, please cite our research paper:
 - More complex federated scenarios
 - Privacy-preserving techniques
 
+## 👥 Project Team
+
+## 👥 Contributors
+
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/bekker18">
+            <img src="https://github.com/bekker18.png" width="100px;" alt="bekker18"/><br />
+            <sub><b>bekker18</b></sub>
+        </a><br />
+        <sub>Collaborator</sub>
+    </td>
+    <td align="center">
+        <a href="https://github.com/SpaceDevEngineer">
+            <img src="https://github.com/SpaceDevEngineer.png" width="100px;" alt="Temurbek Kuchkorov"/><br />
+            <sub><b>Temurbek Kuchkorov</b></sub>
+        </a><br />
+        <sub>SpaceDevEngineer</sub>
+    </td>
+    <td align="center">
+        <a href="https://github.com/timchenko69">
+            <img src="https://github.com/timchenko69.png" width="100px;" alt="timchenko69"/><br />
+            <sub><b>timchenko69</b></sub>
+        </a><br />
+        <sub>Collaborator</sub>
+    </td>
+</tr>
+</table>
+
+### Acknowledgments
+
+Special thanks to all contributors who made this research project possible.
+
 ---
 
 **Note**: This project was developed for research purposes. The code is designed to run in Google Colab environment with GPU support.
