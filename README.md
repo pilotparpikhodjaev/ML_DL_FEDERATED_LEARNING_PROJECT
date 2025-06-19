@@ -223,7 +223,7 @@ If you use this work, please cite our research paper:
     <td align="center">
         <a href="https://github.com/bekker18">
             <img src="https://github.com/bekker18.png" width="100px;" alt="bekker18"/><br />
-            <sub><b>bekker18</b></sub>
+            <sub><b>bekker - s333564 Bekzod Kadirov</b></sub>
         </a><br />
         <sub>Collaborator</sub>
     </td>
@@ -232,14 +232,14 @@ If you use this work, please cite our research paper:
             <img src="https://github.com/SpaceDevEngineer.png" width="100px;" alt="Temurbek Kuchkorov"/><br />
             <sub><b>Temurbek Kuchkorov</b></sub>
         </a><br />
-        <sub>SpaceDevEngineer</sub>
+        <sub>S333520</sub>
     </td>
     <td align="center">
         <a href="https://github.com/timchenko69">
             <img src="https://github.com/timchenko69.png" width="100px;" alt="timchenko69"/><br />
-            <sub><b>timchenko69</b></sub>
+            <sub><b>timchenko69 - Timurbek Karimov</b></sub>
         </a><br />
-        <sub>Collaborator</sub>
+        <sub>S333565</sub>
     </td>
 </tr>
 </table>
