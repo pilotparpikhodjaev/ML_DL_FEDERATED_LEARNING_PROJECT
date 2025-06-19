@@ -216,16 +216,21 @@ If you use this work, please cite our research paper:
 
 ## 👥 Project Team
 
-## 👥 Contributors
-
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/pilotparpikhodjaev">
+            <img src="https://github.com/pilotparpikhodjaev.png" width="100px;" alt="pilotparpikhodjaev"/><br />
+            <sub><b>Javokhirbek Parpikhodjaev</b></sub>
+        </a><br />
+        <sub>s345099</sub>
+    </td>
+    <td align="center">
         <a href="https://github.com/bekker18">
             <img src="https://github.com/bekker18.png" width="100px;" alt="bekker18"/><br />
-            <sub><b>bekker - s333564 Bekzod Kadirov</b></sub>
+            <sub><b>bekker -  Bekzod Kadirov</b></sub>
         </a><br />
-        <sub>Collaborator</sub>
+        <sub>s333564</sub>
     </td>
     <td align="center">
         <a href="https://github.com/SpaceDevEngineer">
