@@ -18,10 +18,9 @@ Based on our experimental results:
 
 ### Non-IID Scenarios
 
-- **Baseline (j4)**: 2.07% test accuracy
-- **With Masking (j4X)**: 3.98% test accuracy
-- **With Masking (c02)**: 4.18% test accuracy
-- **With Masking (c05)**: 5.12% test accuracy
+- **Baseline (no mask)**: 6.54% test accuracy
+- **Random Masking (70%)**: 10.11% test accuracy
+- **Least-Sensitive Mask**: 6.91% test accuracy
 
 The results demonstrate that masking strategies can improve performance in non-IID federated learning scenarios, with higher masking coefficients showing better results.
 
@@ -108,7 +107,8 @@ pip install matplotlib numpy json os
 
 - **Base Model**: Vision Transformer (ViT-Small) with patch size 16
 - **Pre-training**: DINO self-supervised learning
-- **Dataset**: CIFAR-10 (inferred from 10-class classification)
+- **Dataset**: CIFAR-100 (100-class classification)
+
 
 ### Federated Learning Setup
 
@@ -123,17 +123,6 @@ The project implements attention-based masking for model editing:
 - Masks are applied to transformer attention layers
 - Different masking coefficients (c02, c05) are tested
 - Sensitive masking targets specific model components
-
-## 📈 Results
-
-### Performance Comparison
-
-The [`result.ipynb`](result.ipynb) notebook provides comprehensive analysis including:
-
-- Validation accuracy curves across training rounds
-- Loss convergence analysis
-- Final test accuracy comparisons
-- Statistical significance testing
 
 ### Key Visualizations
 
@@ -156,7 +145,7 @@ The [`result.ipynb`](result.ipynb) notebook provides comprehensive analysis incl
 - Results are automatically saved to structured directories
 - JSON files store training metrics
 - Visualization scripts generate comparison plots
-- Zip files created for easy result sharing
+- Zip files created for easy result sharing 
 
 ## 📋 Requirements
 
