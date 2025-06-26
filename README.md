@@ -178,10 +178,10 @@ This is a research project. For questions or collaborations:
 If you use this work, please cite our research paper:
 
 ```bibtex
-@article{federated_model_editing_2024,
+@article{federated_model_editing_2025,
   title={Federated Learning Under the Lens of Model Editing},
   author={[Your Names]},
-  year={2024},
+  year={2025},
   journal={[Conference/Journal Name]}
 }
 ```
